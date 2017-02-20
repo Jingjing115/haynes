@@ -1,0 +1,19 @@
+[
+  {"name": "Common", "left": "", "right": "rb", "event": "Reboot"},
+  {"name": "Common", "left": "qi", "right": "in", "event": "QueryFirmware"},
+  {"name": "Common", "left": "qt", "right": "at", "event": "QueryTime"},
+  {"name": "Common", "left": "", "right": "up", "event": "UpdateFirmware"},
+  {"name": "GenericModule", "left": "Mr", "right": "Ma", "event": "Register"},
+  {"name": "GenericModule", "left": "Mc", "right": "Ma", "event": "Control"},
+  {"name": "GenericModule", "left": "Md", "right": "Ma", "event": "GenericModuleState"},
+  {"name": "Router", "left": "", "right": "rc", "event": "Reconnect"},
+  {"name": "Router", "left": "md", "right": "ro", "event": "MonitorDevice"},
+  {"name": "Router", "left": "", "right": "mq", "event": "MonitorQuery"},
+  {"name": "Router", "left": "", "right": "uc", "event": "UpnpControl"},
+  {"name": "Router", "left": "", "right": "ui", "event": "UpnpState"},
+  {"name": "Bulb", "left": "", "right": "so", "event": "On"},
+  {"name": "Bulb", "left": "", "right": "sf", "event": "Off"},
+  {"name": "Bulb", "left": "", "right": "si", "event": "Adjust"},
+  {"name": "Bulb", "left": "sa", "right": "aa", "event": "UsedTime"}
+]
+

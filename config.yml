@@ -1,0 +1,17 @@
+data_receive:
+  producer: "redis"
+  host: "115.29.9.156"
+  port: "6379"
+  username: ""
+  password: "dFyF9yygzfDeGZYQZCvJEHjwuejFEFMdrmSrtJzW"
+  database: 0
+  rch: "tcp_receive"
+  pch: "tcp_push"
+
+msg_distribute:
+  consumer: "redis"
+  host: "127.0.0.1"
+  port: "6379"
+  username: ""
+  password: ""
+  database: 0

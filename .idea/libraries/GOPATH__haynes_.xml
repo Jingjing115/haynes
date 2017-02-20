@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;haynes&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/workspace/go/src/phantom_gateway" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/workspace/go/src/phantom_gateway" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
